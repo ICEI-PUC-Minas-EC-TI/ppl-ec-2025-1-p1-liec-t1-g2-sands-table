@@ -12,10 +12,10 @@
 ## Integrantes
 
 * Arthur Bernardes Almeida Diniz
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Eudardo
+* Bruno
+* Vitor
+* Arthur
 
 ## Orientador
 
