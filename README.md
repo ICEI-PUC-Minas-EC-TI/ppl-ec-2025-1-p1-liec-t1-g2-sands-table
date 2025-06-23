@@ -12,7 +12,7 @@
 ## Integrantes
 
 * Arthur Bernardes Almeida Diniz
-* Eudardo
+* Eudardo Frederico Alencar Sanches Novais
 * Bruno
 * Vitor
 * Arthur
