@@ -11,7 +11,7 @@
 
 ## Integrantes
 
-* Nome completo do aluno 1
+* Arthur Bernardes Almeida Diniz
 * Nome completo do aluno 2
 * Nome completo do aluno 3
 * Nome completo do aluno 4
