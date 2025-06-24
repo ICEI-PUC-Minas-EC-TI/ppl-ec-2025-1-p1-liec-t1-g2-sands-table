@@ -13,13 +13,13 @@
 
 * Arthur Bernardes Almeida Diniz
 * Eduardo Frederico Alencar Sanches Novais
-* Bruno
-* Vitor
+* Bruno Rios de Andrade Sousa
+* Vitor Martinotto Mazzonetto 
 * Arthur
 
 ## Orientador
 
-* Nome completo do professor 1
+*Felipe Augusto Lara Soares
 
 ## Resumo
 
