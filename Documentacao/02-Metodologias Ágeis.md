@@ -3,21 +3,32 @@
 
 # Metodologia
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Metodologia de Trabalho: Modelo Cascata
+O grupo utilizou o Modelo Cascata, uma abordagem de desenvolvimento linear e sequencial. Este modelo foi escolhido por ser adequado a projetos com requisitos bem definidos desde o início, permitindo um processo organizado onde cada fase é concluída antes de iniciar a próxima.
+
+As fases do projeto seguiram a seguinte ordem:
+
+Requisitos: A primeira fase consistiu na procura dos materiais necessários para o projeto, com base nos requisitos definidos.
+
+Design: Em seguida, a equipe trabalhou na visualização do projeto e no design detalhado da estrutura mecânica e da interface do aplicativo.
+
+Implementação: Nesta fase, ocorreu a montagem do hardware (mecanismo, eletrônica) e o teste inicial do software (código e aplicativo) de forma separada.
+
+Integração: Com as partes testadas, foi feita a montagem da base e da estrutura final da mesa, integrando todos os componentes.
+
+Testes: A penúltima fase foi dedicada aos testes finais, verificando o funcionamento completo do conjunto e a precisão dos desenhos.
+
+Manutenção: Após a conclusão dos testes, o projeto foi documentado e finalizado para a apresentação.
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+Arthur Bernardes Almeida Diniz: Responsável pela montagem do hardware (a parte física da Mesa de Areia) e pela gestão do projeto.
 
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Aluno 1;
-- Equipe de Desenvolvimento: Aluno 1, Aluno 2, Aluno 3;
+Bruno Rios de Andrade Sousa: Focado no desenvolvimento do código para o microcontrolador ESP32.
 
+Eduardo Frederico Alencar Sanches Novais: Responsável pelo desenvolvimento do aplicativo no MIT App Inventor e também contribuiu com o código do ESP32.
 
-### Processo
-
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. Cole aqui um print do quadro Kanban utilizado pelo grupo.
- 
+Vitor Martinotto Mazzonetto: Responsável pelo gerenciamento do código-fonte no GitHub e pela produção das filmagens e registros do projeto.
 
 ### Ferramentas
 
