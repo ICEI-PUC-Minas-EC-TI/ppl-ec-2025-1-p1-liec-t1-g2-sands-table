@@ -1,12 +1,12 @@
 # TÍTULO DO PROJETO
 
-`CAMPUS/UNIDADE`
+PUC Minas - Unidade Praça da Liberdade
 
-`CURSO`
+Engenharia de computação
 
-`SEMESTRE`
+1º Semestre
 
-`DISCIPLINA`
+LABORATÓRIO DE INTRODUÇÃO A COMPUTAÇÃO
 
 
 ## Integrantes
@@ -20,10 +20,15 @@
 ## Orientador
 
 *Felipe Augusto Lara Soares
+*Cristiano Neves
 
 ## Resumo
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este projeto consiste no desenvolvimento de um protótipo funcional de uma Mesa de Areia (Sand Table) automatizada. Concebido como um trabalho de finalidade puramente acadêmica, seu principal objetivo é servir como uma ferramenta prática para estudantes de tecnologia e engenharia. Através de sua construção, é possível aplicar e visualizar conceitos de eletrônica, mecânica e desenvolvimento de software.
+
+
+
+Tecnicamente, o sistema é controlado por um microcontrolador ESP32, que comanda um motor de passo para movimentar um ímã sob a superfície da mesa. A interação do usuário é feita por um aplicativo para Android, desenvolvido na plataforma MIT App Inventor.
 
 # Código (do arduino ou esp32)
 
