@@ -34,4 +34,4 @@ Vitor Martinotto Mazzonetto: Responsável pelo gerenciamento do código-fonte no
 
 As ferramentas utilizadas no projeto foram:
 
-- Liste aqui as ferramentas utilizadas para desenvolvimento do projeto (como por exemplo: Arduino IDE, APP Inventor, trello e outros). Obs: não é para listar aqui os componentes utilizados.
+Arduino IDE, MIT App Inventor.
