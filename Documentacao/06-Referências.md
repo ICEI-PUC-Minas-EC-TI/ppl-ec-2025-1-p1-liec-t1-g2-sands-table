@@ -1,3 +1,3 @@
 # Referências
 
-Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvolvimento do trabalho (no formato ABNT).
+LINGIB. Sand Table. Instructables. Disponível em: https://www.instructables.com/Sand-Table/. Acesso em: 3 jul. 2025.
