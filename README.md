@@ -20,6 +20,7 @@ LABORATÓRIO DE INTRODUÇÃO A COMPUTAÇÃO
 ## Orientador
 
 *Felipe Augusto Lara Soares
+
 *Cristiano Neves
 
 ## Resumo
