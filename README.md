@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# SAND TABLE
 
 PUC Minas - Unidade Praça da Liberdade
 
