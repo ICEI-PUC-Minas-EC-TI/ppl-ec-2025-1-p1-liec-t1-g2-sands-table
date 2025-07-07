@@ -15,7 +15,7 @@ LABORATÓRIO DE INTRODUÇÃO A COMPUTAÇÃO
 * Eduardo Frederico Alencar Sanches Novais
 * Bruno Rios de Andrade Sousa
 * Vitor Martinotto Mazzonetto 
-* Arthur
+
 
 ## Orientador
 
